@@ -1,0 +1,29 @@
+grupo4
+7BBaofNucS2w1NA3
+
+
+[{
+  "sku":"P100",
+  "qty":100,
+  "name":"Whiskas carni",
+  "price":"12"
+},
+{
+  "sku":"P101",
+  "qty":100,
+  "name":"Pedigree vital",
+  "price":"18.5"
+}
+,
+{
+  "sku":"P102",
+  "qty":170,
+  "name":"Formula Healty",
+  "price":"19"
+},
+{
+  "sku":"P105",
+  "qty":220,
+  "name":"Puerco para perro",
+  "price":"20"
+}]
